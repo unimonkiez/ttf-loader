@@ -1,9 +1,7 @@
 # ttf-loader
 [![npm version](https://badge.fury.io/js/ttf-loader.svg)](https://badge.fury.io/js/ttf-loader)[![Build Status](https://travis-ci.org/unimonkiez/ttf-loader.svg?branch=master)](https://travis-ci.org/unimonkiez/ttf-loader)
 
-## Parse your svgs in build time and make them compatible with your react-native app.
-
-## Example
+## Import and use fonts easily in your javascript web app
 
 ## Usage
 * Install
